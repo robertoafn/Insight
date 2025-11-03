@@ -219,12 +219,13 @@ El dendrograma identifica agrupaciones naturales más allá de la clasificación
 ## 📚 Referencias
 
 ### Metodologías Replicadas
+1. Consuegra-Jiménez, S., et al.** (2025) ⭐- "Unsupervised learning techniques for clustering analysis of physicochemical properties in the periodic table elements"
 
-1. **Deml, A. M., et al.** (2023). "Machine Learning in Materials Science: Recent Progress and Emerging Applications" - Feature engineering y ensemble methods
+2. **Deml, A. M., et al.** (2023). "Machine Learning in Materials Science: Recent Progress and Emerging Applications" - Feature engineering y ensemble methods
 
-2. **Zhang, Y., et al.** (2024). "Dimensionality Reduction in High-Dimensional Chemical Space" - PCA y clustering jerárquico
+3. **Zhang, Y., et al.** (2024). "Dimensionality Reduction in High-Dimensional Chemical Space" - PCA y clustering jerárquico
 
-3. **Kumar, R., et al.** (2024). "Explainable AI in Periodic Table Analysis" - Feature importance y interpretabilidad
+4. **Kumar, R., et al.** (2024). "Explainable AI in Periodic Table Analysis" - Feature importance y interpretabilidad
 
 ### Fuentes de Datos
 
