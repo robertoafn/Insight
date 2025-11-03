@@ -240,7 +240,7 @@ El dendrograma identifica agrupaciones naturales más allá de la clasificación
 **Autor:** Roberto Andres Flores Nuñez  
 **Proyecto:** Machine Learning en Química Computacional  
 **GitHub:** [github.com/RobertoFloresNunez](https://github.com/RobertoFloresNunez)  
-**LinkedIn:** [linkedin.com/in/roberto-flores-nunez](https://linkedin.com/in/roberto-flores-nunez)  
+**LinkedIn:** [linkedin.com/in/roberto-flores-nunez](https://www.linkedin.com/in/roberto-flores-nuñez)  
 **Email:** roberto.flores.n1987@gmail.com
 
 ---
@@ -293,7 +293,7 @@ Este proyecto está bajo la Licencia MIT - ver el archivo [LICENSE](LICENSE) par
 
 **Roberto Andres Flores Nuñez**  
 📍 Santiago, Chile  
-🔍 Buscando práctica laboral en Data Science / Machine Learning
+🔍 Buscando práctica laboral en Ingenieria en Qumica Industrial
 
 Este proyecto demuestra competencias en:
 - Machine Learning (Random Forest, PCA, Clustering)
